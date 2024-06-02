@@ -11,9 +11,11 @@
   <code><a target="_blank" href="https://stackoverflow.com/users/15433357/shubham-upadhyay" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
+
 <!-- About -->
 🔭 Hello! I’m a seasoned web developer with a rich tapestry of skills that blend to create seamless and robust web
 applications. With a deep understanding of both front-end aesthetics and back-end functionality.
+
 
 🌱 My journey in the tech industry has been marked by a relentless pursuit of knowledge and a passion for
 problem-solving. I excel in REST API development, ensuring that applications not only perform efficiently but also
