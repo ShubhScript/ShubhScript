@@ -6,8 +6,8 @@
 </h1>
 <!-- Social Media -->
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/1shubham-upadhyay/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://stackoverflow.com/users/15433357/shubham-upadhyay" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a target="_blank" href="https://www.linkedin.com/in/1shubham-upadhyay/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a target="_blank" href="https://stackoverflow.com/users/15433357/shubham-upadhyay" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
 <!-- About -->
